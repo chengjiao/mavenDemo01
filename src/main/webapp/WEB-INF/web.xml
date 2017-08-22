@@ -29,4 +29,12 @@
     <servlet-name>top10</servlet-name>
     <url-pattern>/top10</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <servlet-name>preference</servlet-name>
+    <servlet-class>app02c.PreferenceServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>preference</servlet-name>
+    <url-pattern>/preference</url-pattern>
+  </servlet-mapping>
 </web-app>
