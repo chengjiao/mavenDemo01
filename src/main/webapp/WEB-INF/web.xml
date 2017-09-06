@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>SimpleServlet</servlet-name>
-    <servlet-class>appo1c.SimpleServlet</servlet-class>
+    <servlet-class>app01c.SimpleServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>SimpleServlet</servlet-name>
@@ -15,7 +15,7 @@
   
   <servlet>
     <servlet-name>WelcomeServlet</servlet-name>
-    <servlet-class>appo1c.WelcomeServlet</servlet-class>
+    <servlet-class>app01c.WelcomeServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>WelcomeServlet</servlet-name>
@@ -31,7 +31,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>preference</servlet-name>
-    <servlet-class>app02c.PreferenceServlet</servlet-class>
+    <servlet-class>app02d.PreferenceServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>preference</servlet-name>
